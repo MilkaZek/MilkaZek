@@ -4,7 +4,7 @@
 🏫 Loyola Marymount University '27 Computer Science Major<br>🎭  Theater + Game Design Double Minor 🎮<br>👩🏽‍💻 Aspiring Product Manager & Designer<br>💗 Community Service Oriented & Focused<br>🍫 Big Sweet Tooth
 
 Milka _right now_:
-- 🔭 I’m currently working on GRNsight! A comp sci + biology collaboration project that helps biologists visualize gene regulatory networks and protein-protein interactions.
+- 🔭 I’m currently working on [GRNsight](https://dondi.github.io/GRNsight/)! A comp sci + biology collaboration project that helps biologists visualize gene regulatory networks and protein-protein interactions.
 - 🌱 I’m currently learning about different Machine Learning algorithms and methods to reduce bias and variance error.
 - 💬 Ask me about: animated tv shows! and the best gelato spots in Rome~
 - 📫 How to reach me: socials & email below!
